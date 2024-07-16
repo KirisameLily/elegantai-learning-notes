@@ -2,7 +2,7 @@
 
 大致思路为
 
-
+![链接](https://github.com/KirisameLily/elegantai-learning-notes/blob/main/resource/ubuntu%E5%AE%89%E8%A3%85%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A1%86%E6%9E%B6.png)
 
 首先，更新Ubuntu必要库
 
